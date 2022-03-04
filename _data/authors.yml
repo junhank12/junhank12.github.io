@@ -22,10 +22,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    # twitter:         <username>
     github:          junhank12
     email:           junhank12@gmail.com
-    # rss:             https://<url>/feed.xml
+    rss:             https://junhank12.github.io
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -35,7 +35,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       junhank_12
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
